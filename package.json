@@ -1,0 +1,7 @@
+{
+  "name": "hyperstyler",
+  "version": "0.1.0",
+  "description": "Apply CSS Modules to hyperscript VNodes",
+  "main": "index.js",
+  "repository": "laggingreflex/hyperstyler"
+}
